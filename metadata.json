@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Placement Coach",
+  "description": "AI-powered placement preparation platform with resume analysis, job matching, skill gap diagnosis, preparation roadmaps, mock interviews, and technical assessments.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
